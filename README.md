@@ -2,7 +2,7 @@
 
 Sou rebeca gumercindo, estou cursando desenvolvimento de sistemas e tenho paixão por tecnologia e inovação. essas são minhas redes sociais:
 
- [![Linkedin Badge](https://img.shields.io/badge/rebeca-gumercindoblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-bernardes/)](https://www.linkedin.com/in/higor-bernardes/) 
+ [![Linkedin Badge](https://img.shields.io/badge/rebeca-gumercindoblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higor-bernardes/)](https://www.linkedin.com/in/rebeca-gumercindo/) 
 
 ---
 
